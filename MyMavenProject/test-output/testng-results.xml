@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11779" started-at="2018-02-01T02:58:29Z" finished-at="2018-02-01T02:58:41Z">
+  <suite name="Default suite" duration-ms="21280" started-at="2018-02-02T03:23:56Z" finished-at="2018-02-02T03:24:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11779" started-at="2018-02-01T02:58:29Z" finished-at="2018-02-01T02:58:41Z">
+    <test name="Default test" duration-ms="21280" started-at="2018-02-02T03:23:56Z" finished-at="2018-02-02T03:24:18Z">
       <class name="mavenPackage.MyMavenProject.tests.LoginPageSuite">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@3e6fa38a]" name="beforeTest" is-config="true" duration-ms="4312" started-at="2018-02-01T08:28:29Z" finished-at="2018-02-01T08:28:33Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@4cf777e8]" name="beforeTest" is-config="true" duration-ms="5052" started-at="2018-02-02T08:53:56Z" finished-at="2018-02-02T08:54:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="verifyLoginWithInvalidCredentials()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@3e6fa38a]" name="verifyLoginWithInvalidCredentials" duration-ms="1209" started-at="2018-02-01T08:28:33Z" finished-at="2018-02-01T08:28:35Z">
+        <test-method status="PASS" signature="verifyLoginWithInvalidCredentials()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@4cf777e8]" name="verifyLoginWithInvalidCredentials" duration-ms="7639" started-at="2018-02-02T08:54:01Z" finished-at="2018-02-02T08:54:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithInvalidCredentials -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@3e6fa38a]" name="afterTest" is-config="true" duration-ms="241" started-at="2018-02-01T08:28:35Z" finished-at="2018-02-01T08:28:35Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@4cf777e8]" name="afterTest" is-config="true" duration-ms="256" started-at="2018-02-02T08:54:09Z" finished-at="2018-02-02T08:54:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@3e6fa38a]" name="beforeTest" is-config="true" duration-ms="3625" started-at="2018-02-01T08:28:35Z" finished-at="2018-02-01T08:28:39Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@4cf777e8]" name="beforeTest" is-config="true" duration-ms="3892" started-at="2018-02-02T08:54:09Z" finished-at="2018-02-02T08:54:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="verifyLoginWithValidCredentials()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@3e6fa38a]" name="verifyLoginWithValidCredentials" duration-ms="2115" started-at="2018-02-01T08:28:39Z" finished-at="2018-02-01T08:28:41Z">
+        <test-method status="PASS" signature="verifyLoginWithValidCredentials()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@4cf777e8]" name="verifyLoginWithValidCredentials" duration-ms="4119" started-at="2018-02-02T08:54:13Z" finished-at="2018-02-02T08:54:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithValidCredentials -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@3e6fa38a]" name="afterTest" is-config="true" duration-ms="251" started-at="2018-02-01T08:28:41Z" finished-at="2018-02-01T08:28:41Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenPackage.MyMavenProject.tests.LoginPageSuite@4cf777e8]" name="afterTest" is-config="true" duration-ms="295" started-at="2018-02-02T08:54:17Z" finished-at="2018-02-02T08:54:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

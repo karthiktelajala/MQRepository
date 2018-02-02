@@ -1,0 +1,6 @@
+2018-54-02 08:54:01 INFO  LoginPageSuite:34 - Entering the username
+2018-54-02 08:54:02 INFO  LoginPageSuite:36 - Entering the password
+2018-54-02 08:54:02 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-54-02 08:54:09 INFO  LoginPageSuite:23 - Intializing the Test
+2018-54-02 08:54:09 INFO  TestBase:32 - Opening the browser: chrome
+2018-54-02 08:54:12 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
